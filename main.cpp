@@ -152,8 +152,8 @@ int main(){
         putpixel(a,b,YELLOW);      
     }
 
-    getch();         // Kullanıcı etkileşimi
-    closegraph();   // grafik ekranini kapar
+    getch();        -
+    closegraph();  
     
     return 0;
 }
