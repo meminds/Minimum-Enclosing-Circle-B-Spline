@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605284408 source:c:\users\Ýdeal pc\desktop\prolab-1\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+
